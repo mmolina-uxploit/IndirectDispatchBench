@@ -17,7 +17,7 @@ Comparación rápida de **Static (`some`)** vs **Dynamic (`any`)** dispatch.
 ## Uso
 
 ```bash
-git clone https://github.com/tu-repo/swift-polymorphism.git
+git clone https://github.com/mmolina-uxploit/IndirectDispatchBench.git
 ```
 - open Benchmark.playground
 - Ejecutar y revisar tiempos y ratio.
