@@ -18,10 +18,9 @@ Comparación rápida de **Static (`some`)** vs **Dynamic (`any`)** dispatch.
 
 ```bash
 git clone https://github.com/tu-repo/swift-polymorphism.git
-open Benchmark.playground
 ```
-
-Ejecutar y revisar tiempos y ratio.
+- open Benchmark.playground
+- Ejecutar y revisar tiempos y ratio.
 
 ---
 
